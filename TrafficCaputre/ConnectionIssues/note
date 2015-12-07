@@ -5,3 +5,7 @@ Turning on  with orwall and orbot, keepds doing dns need to turn orbot on and of
 
 ip.addr==129.241.205.110 or eth.addr==08:60:6e:ac:5d:47
 
+
+The first packet sent from device was at 14.10.03
+The first packet send through Tor was at 09.14 to 37.59.243.198.
+The last packet outside Tor was at 14.10.32 to 2001:948:7:1::c which was

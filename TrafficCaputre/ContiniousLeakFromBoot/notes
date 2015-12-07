@@ -1,0 +1,5 @@
+Connected leaked and kept leaking.- 
+
+Turned wifi off and on again, this made it connectino to Tor at packet 3648
+
+ip.addr==129.241.205.110 and eth.addr==08:60:6e:ac:5d:47 and not (ip.addr==37.59.243.198 or ip.addr==91.109.29.120 or ip.addr==80.237.226.75)
