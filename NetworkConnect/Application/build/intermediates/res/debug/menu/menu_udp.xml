@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_action"
+    android:showAsAction="ifRoom|withText"
+    android:title="main" />
+</menu>
+<!-- From: file:/home/jonathan/AndroidStudioProjects/NetworkConnect/Application/src/main/res/menu/menu_udp.xml -->
