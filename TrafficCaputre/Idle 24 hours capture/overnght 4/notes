@@ -1,9 +1,0 @@
-Think there was something sent outside tor 
-
-orwall on.
-
-
-IP:
-MAC: 08:60:6e:ac:5d:47
-
-ip.src== 129.241.205.110 and not (ip.addr == 144.76.168.8 or ip.addr == 50.7.141.18 or ip.addr== 62.210.206.25 or ip.addr == 91.121.82.25 or ip.addr== 213.239.216.222 or ip.addr== 5.9.146.203 or ip.addr ==37.59.243.198 or ip.addr == 178.33.35.151 or ip.addr== 188.138.121.118 or ip.addr== 81.7.16.59 or ip.addr==144.76.40.121 or ip.addr == 217.12.199.208 or ip.addr ==107.181.174.22)
